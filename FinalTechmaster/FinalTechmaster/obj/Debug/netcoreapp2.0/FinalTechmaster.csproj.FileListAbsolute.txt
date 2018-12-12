@@ -1,0 +1,11 @@
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/bin/Debug/netcoreapp2.0/FinalTechmaster.deps.json
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/bin/Debug/netcoreapp2.0/FinalTechmaster.runtimeconfig.json
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/bin/Debug/netcoreapp2.0/FinalTechmaster.runtimeconfig.dev.json
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/bin/Debug/netcoreapp2.0/FinalTechmaster.dll
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/bin/Debug/netcoreapp2.0/FinalTechmaster.pdb
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/obj/Debug/netcoreapp2.0/FinalTechmaster.csprojResolveAssemblyReference.cache
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/obj/Debug/netcoreapp2.0/FinalTechmaster.csproj.CoreCompileInputs.cache
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/obj/Debug/netcoreapp2.0/FinalTechmaster.AssemblyInfoInputs.cache
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/obj/Debug/netcoreapp2.0/FinalTechmaster.AssemblyInfo.cs
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/obj/Debug/netcoreapp2.0/FinalTechmaster.dll
+/Users/ndtoan/Projects/FinalTechmaster/FinalTechmaster/obj/Debug/netcoreapp2.0/FinalTechmaster.pdb

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{D4D53131-CBA0-4018-9F02-C0D8B34A400D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinalTechmaster/Controllers/FlightsController.cs">
+    <Files>
+      <File FileName="FinalTechmaster/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="FinalTechmaster/Controllers/LoginController.cs" Line="41" Column="62" />
+      <File FileName="FinalTechmaster/Model/UserLogin.cs" Line="8" Column="1" />
+      <File FileName="FinalTechmaster/Model/ReturnData.cs" Line="4" Column="28" />
+      <File FileName="FinalTechmaster/Model/Flights.cs" Line="9" Column="40" />
+      <File FileName="FinalTechmaster/Controllers/FlightsController.cs" Line="18" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FinalTechmaster PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
